@@ -1,0 +1,20 @@
+[
+  {
+    "id": "atelier",
+    "nom": "Atelier",
+    "description": "Outils PDF, images et cours, 100 % hors ligne",
+    "emoji": "🧰",
+    "accent": "#14b8a6",
+    "depot": "ferdinandcharly/atelier-releases",
+    "exe": "Atelier.exe"
+  },
+  {
+    "id": "gonia",
+    "nom": "Gonia",
+    "description": "Le « Dynamic Island » de ton bureau : musique, minuteur, agenda",
+    "emoji": "🏝️",
+    "accent": "#7a8cff",
+    "depot": "ferdinandcharly/gonia-releases",
+    "exe": "Gonia.exe"
+  }
+]
